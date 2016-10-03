@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1044311056178",
+    "firebase_url": "https://login-eacb8.firebaseio.com",
+    "project_id": "login-eacb8",
+    "storage_bucket": "login-eacb8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1044311056178:android:f8527921b4aaa1c1",
+        "android_client_info": {
+          "package_name": "com.example.mycalc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1044311056178-rb8u712nbnppem7sfjgflcnifbnalj21.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQpVwdqCL85n-CrESLD0r_9RozxqC1ubg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
